@@ -1,0 +1,7 @@
+a) No prefixado, o Java muda o número antes de qualquer outra coisa. No código, o sistema primeiro soma 1 ao 5 (virando 6) e só depois passa esse 6 para o y1. Na linha seguinte, ele primeiro subtrai 1 do 6 (virando 5) e só depois passa esse 5 para o z1.
+
+b) Os resultados finais são: x1 = 5, y1 = 6 e z1 = 5.
+
+c) No posfixado, a regra é: use agora e mude depois. Com o x2 valendo 5, o sistema primeiro entrega o 5 para o y2 e só depois aumenta o x2 para 6. Na linha debaixo, ele primeiro entrega o 6 para o z2 e só depois diminui o x2 para 5 de novo.
+
+d) Os resultados finais são: x2 = 5, y2 = 5 e z2 = 6.

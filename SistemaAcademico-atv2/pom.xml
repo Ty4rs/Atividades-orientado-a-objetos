@@ -10,5 +10,5 @@
         <maven.compiler.release>25</maven.compiler.release>
         <exec.mainClass>com.joaocl.sistemaacademico.SistemaAcademico</exec.mainClass>
     </properties>
-    <name>SistemaAcademico-atv2</name>
+    <name>&lt;partially loaded Maven project&gt;</name>
 </project>
